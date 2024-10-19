@@ -1,8 +1,5 @@
 this is sample file
-my name is pavan
-<<<<<<< HEAD
+my name is pavangit
 added line
-added fourth
-=======
-added third line
->>>>>>> ddd811694c450fcb616e876c6c1fa6932640efeb
+added fourthgiut
+one lone
